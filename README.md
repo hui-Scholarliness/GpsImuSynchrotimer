@@ -1,0 +1,2 @@
+# GpsImuSynchrotimer
+gps和imu时间同步。gps使用的是UM982,imu使用的是mti300
