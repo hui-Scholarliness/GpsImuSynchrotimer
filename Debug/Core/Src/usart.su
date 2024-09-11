@@ -1,0 +1,11 @@
+../Core/Src/usart.c:38:6:MX_UART5_Init	8	static
+../Core/Src/usart.c:67:6:MX_USART1_UART_Init	8	static
+../Core/Src/usart.c:96:6:MX_USART2_UART_Init	8	static
+../Core/Src/usart.c:124:6:HAL_UART_MspInit	64	static
+../Core/Src/usart.c:330:6:HAL_UART_MspDeInit	16	static
+../Core/Src/usart.c:411:6:extractUTC	32	static
+../Core/Src/usart.c:435:5:is_leap_year	16	static
+../Core/Src/usart.c:440:5:get_days_in_month	72	static
+../Core/Src/usart.c:450:6:increment_utc_time	64	static
+../Core/Src/usart.c:485:6:compareTime	120	static
+../Core/Src/usart.c:509:1:__io_putchar	16	static
